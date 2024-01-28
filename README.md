@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mikroob
+- 👀 I’m interested in Pentest & Security & Network
+- 🌱 I’m currently learning IT sience
